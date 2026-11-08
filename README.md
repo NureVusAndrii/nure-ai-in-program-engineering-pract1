@@ -2,7 +2,11 @@
 
 **Практична робота «AI у програмній інженерії: від специфікації до перевіреного UX/UI-макета».**
 
-**Макет:** [Figma — робоча версія](https://www.figma.com/design/BlBanabnVhdnqtKHHZa8qg/Untitled?node-id=0-1) · **Джерело:** `00_sources/SD_Spec.docx` · **Методика:** `00_sources/Methodological_Guide.docx`.
+**Макет:** [Figma — робоча версія](https://www.figma.com/design/BlBanabnVhdnqtKHHZa8qg/Mini_Issue_Tracker---Vus_Harnat_Kulykov_Livshyts_Makarov)
+
+**Джерело:** `00_sources/SD_Spec.docx`
+
+**Методика:** `00_sources/Methodological_Guide.docx`.
 
 **Відеозахист:** `посилання з'явиться пізніше`.
 

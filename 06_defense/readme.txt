@@ -4,7 +4,7 @@ MINI ISSUE TRACKER — UX/UI PRACTICAL WORK
 Група: ПЗПІ-23-7
 
 GitHub repository: https://github.com/NureVusAndrii/nure-ai-in-program-engineering-pract1
-Figma design/prototype: https://www.figma.com/design/BlBanabnVhdnqtKHHZa8qg/Untitled?node-id=0-1
+Figma design/prototype: https://www.figma.com/design/BlBanabnVhdnqtKHHZa8qg/Mini_Issue_Tracker---Vus_Harnat_Kulykov_Livshyts_Makarov
 Відеозахист: README.md з репозиторію на гітхабі
 
 Зміст: вихідні джерела, Input Pack із 8 US та 33 AC, Source Check,
